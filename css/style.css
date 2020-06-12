@@ -1,0 +1,266 @@
+body{
+	font-family: "MADE TOMMY", "MADE TOMMY Outline";
+	font-size: 20px;
+	background-color: #242424;
+	color: #FFFFFF;
+}
+
+header{
+	background-color: transparent;
+	padding: 20px 0;
+	position: absolute;
+	width: 100%;
+	z-index: 9999999;
+}
+
+header img{
+	width: 150px;
+	padding-top: 50px;	
+}
+header a{
+	color: #FFFFFF;
+	text-decoration: none;	
+}
+
+.color-h{
+	color: #5B5B5B;
+	font-weight:600;
+}
+.color-h:hover{
+	color: #FFFFFF;
+	transition: all 0.5s ease-in-out;
+}
+.relleno{
+	font-weight: 600;
+}
+.logo img{
+	width: 150px;
+	margin-left: -100px;
+}
+
+.logo-nav-container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.navigation ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	margin-top: 60px;
+	
+}
+.navigation ul li{
+	display: inline-block
+}
+.navigation ul li a{
+	display: block;
+	padding: 0.5rem 1rem;
+} 
+
+h1{
+	text-align: center;
+	font-size: 60px;
+	font-weight: 50px;
+	padding-top: 200px;
+	padding-right: 250px;
+	color: #594064;
+}
+
+#Informacion img{
+	width: 500px;
+	margin-left: 300px;
+	margin-top: -120px;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	font-size: 60px;
+	font-weight: 800;
+	margin-left: -170px;
+	margin-top: -35px;
+	
+}
+
+footer{
+	font-size: 10px;
+	font-weight: lighter;
+	padding-top: 100px;
+	
+}
+
+
+
+/*footer p{
+	font-size: 10px;
+	text-align:left;
+	word-spacing: normal;
+	padding-top: 25px;
+	padding-bottom: 15px;
+}*/
+.mods{
+	font-weight: lighter;
+	margin-left: 15px;
+	margin-top: -39px;
+		
+}
+.mods3{
+	font-weight: lighter;
+	margin-left: 17px;
+	margin-top: -56px;
+		
+}
+.mods2{
+	font-weight: lighter;
+	margin-left: 10px;
+	margin-top: -39px;
+		
+}
+footer img mail{
+	margin-left: -10px;
+	
+}
+
+.mods2{
+	margin-top:-35px;
+	margin-left: 0px;
+}
+.redes{
+	margin-left: 1100px;
+	margin-top: -70px;
+}
+.redes:hover{
+	background: #727272;
+	transition: all 0.1s ease-in-out;
+}
+.redes1{
+	
+	margin-left: 12px;
+	margin-top: -70px;
+
+}
+.redes1:hover{
+	background: #727272;
+	transition: all 0.1s ease-in-out;
+}
+.redes2{
+		
+	margin-left: 12px;
+	margin-top: -70px;
+}
+.redes2:hover{
+	background: #727272;
+	transition: all 0.1s ease-in-out;
+}
+.redes3{
+	
+	margin-left: 12px;
+	margin-top: -70px;
+}
+.redes3:hover{
+	background: #727272;
+	transition: all 0.1s ease-in-out;
+}
+#borde{
+	border-top: solid;
+	border-color: #FBFBFB;
+}
+.finalpie{
+	font-weight: 200;
+	font-size: 14px;
+}
+.izquierda{
+ text-align: left;
+font-weight: 100;
+	font-size: 10px;
+	margin-top: 30px;
+}
+
+#pie-top{
+	text-align: left;
+	font-weight: 100;
+	font-size: 10px;
+	margin-bottom: 10px;
+}
+
+#pie-top p{
+	font-size: 10px;
+	text-align:left;
+	word-spacing: normal;
+	padding-bottom: 30px;
+	width: 30%;
+}
+
+
+#pie-abajo{
+	padding-right: 20px;
+}
+
+#social{
+	text-align: right;
+}
+
+#Quien-Somos{
+	padding-top: 200px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	text-align: center;
+	color: #fff;
+}
+
+.descripcion i{
+	font-size: 22px;
+	margin-bottom: 35px;
+}
+
+.descripcion p{
+	font-size: 20px;
+	width: 70%;
+	margin: 0px auto 40px;
+}
+
+.descripcion h4{
+	font-size: 16px;
+}
+
+#Quien-Somos .carousel-item{
+	height: 400px;
+}
+
+#pie-top h6{
+	padding-top: 10px;
+}
+
+#pies i{
+	color: #FFFFFF;
+}
+
+.lista-redes i{
+	font-size: 15px;
+}
+
+.lista-redes .nav-link{
+	padding-right: 5px !important;
+}
+
+#pasantias{
+	padding: 100px 100px 35px;
+	background: linear-gradient(to right, #B07ADD, #3EACDA);
+	text-align: left;
+}
+
+#pasantias h1{
+	font-size: 110px;
+	font-weight: 900;
+}
+
+#pasantias h3{
+	font-size: 25px;
+	font-weight: 800;
+	padding-top: 100px;
+	text-align: right;
+}
